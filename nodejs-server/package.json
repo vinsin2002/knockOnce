@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "vinayak sinha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.2",
+    "nodemon": "^2.0.22"
+  }
+}
